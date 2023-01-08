@@ -1,0 +1,197 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Orthodontic Pacifiers",
+      "price": "$9.49",
+      "image": "https://m.media-amazon.com/images/I/71sjx7V+dAL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "babies",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 2,
+      "name": "Baby Activity Playmat",
+      "price": "$50.49",
+      "image": "https://m.media-amazon.com/images/I/71Taa0rliWL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "babies",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 3,
+      "name": "HIPHOP PANDA Hooded Towel",
+      "price": "$11.29",
+      "image": "https://m.media-amazon.com/images/I/61ofzCFvsqL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "babies",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 4,
+      "name": "Unisex Head and Mitten Set",
+      "price": "$12.35",
+      "image": "https://m.media-amazon.com/images/I/71mQJwLUkKL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "babies",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 5,
+      "name": "Room Darkening Blackout Window Curtains",
+      "price": "$39.50",
+      "image": "https://m.media-amazon.com/images/I/81Ra8OqHzLL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "curtains",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 6,
+      "name": "Natural Semi-Sheer Linen Curtains",
+      "price": "$21.49",
+      "image": "https://m.media-amazon.com/images/I/71-mm7fbtTL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "curtains",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 7,
+      "name": "Grey Blackout Noise Reducing Curtains",
+      "price": "$61.29",
+      "image": "https://m.media-amazon.com/images/I/91O8ZilDUTL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "curtains",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 8,
+      "name": "Pinched Pleat Bathroom Shower Curtain",
+      "price": "$18.99",
+      "image": "https://m.media-amazon.com/images/I/71OXlHd0IwL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "curtains",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 9,
+      "name": "Cryptnox Wallet SmartCard",
+      "price": "$49.99",
+      "image": "https://m.media-amazon.com/images/I/61VWPkrG2vL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "electronics",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 10,
+      "name": "Electric Candle Lighter",
+      "price": "$9.99",
+      "image": "https://m.media-amazon.com/images/I/51-Grj8CCUL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "electronics",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 11,
+      "name": "SoundLink Micro Bluetooth Speaker",
+      "price": "$16.50",
+      "image": "https://m.media-amazon.com/images/I/61v+-9dV4PL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "electronics",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 12,
+      "name": "Simon Handheld Memory Game",
+      "price": "$18.99",
+      "image": "https://m.media-amazon.com/images/I/81P7iHZ+1lL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "electronics",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 13,
+      "name": "State of Decay 2",
+      "price": "$29.99",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/495420/header.jpg?t=1656875548",
+      "category": "games",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 14,
+      "name": "Sid Meier's Civilization VI",
+      "price": "$5.99",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg?t=1671048172",
+      "category": "games",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 15,
+      "name": "New World",
+      "price": "$39.50",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1063730/header.jpg?t=1671141281",
+      "category": "games",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 16,
+      "name": "NBA 2k23",
+      "price": "$59.99",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1919590/header.jpg?t=1669997894",
+      "category": "games",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 17,
+      "name": "Green-Life 3-in-1 Breakfast Making Station",
+      "price": "$59.99",
+      "image": "https://m.media-amazon.com/images/I/71GFQfWO+DL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "household appliances",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 18,
+      "name": "Magic Bullet Blender",
+      "price": "$24.95",
+      "image": "https://m.media-amazon.com/images/I/61E1h4TadxL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "household appliances",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 19,
+      "name": "Lefant M1 Robot Vacuum and Mop",
+      "price": "$229.15",
+      "image": "https://m.media-amazon.com/images/I/61Xv4JtFDyL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "household appliances",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 20,
+      "name": "Instant Vortex Plus 10-Quart Air Fryer",
+      "price": "$109.95",
+      "image": "https://m.media-amazon.com/images/I/81gZ5WDqAdL._AC_UY327_FMwebp_QL65_.jpg",
+      "category": "household appliances",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 21,
+      "name": "10-piece Convenience Kit for Women DELUXE",
+      "price": "$9.49",
+      "image": "https://m.media-amazon.com/images/I/71gtYWELkvL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "toiletries",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 22,
+      "name": "Urban Essentials Bulk Toothbrush Pack",
+      "price": "$17.99",
+      "image": "https://m.media-amazon.com/images/I/91DyboxE8lL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "toiletries",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 23,
+      "name": "Gillette Venus Mini Extra Smooth Razor",
+      "price": "$9.49",
+      "image": "https://m.media-amazon.com/images/I/811zcdc-7PL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "toiletries",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    },
+    {
+      "id": 24,
+      "name": "Tooletries Scalp Massager and Hook",
+      "price": "$29.99",
+      "image": "https://m.media-amazon.com/images/I/61d2eKzS9dL._AC_UL480_FMwebp_QL65_.jpg",
+      "category": "toiletries",
+      "description": "Cras a ante vitae enim iaculis aliquam."
+    }
+  ],
+  "cart": []
+}

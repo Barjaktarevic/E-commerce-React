@@ -1,11 +1,14 @@
-import React, { useContext } from 'react'
-import { SetProductsContext } from '../utils/ApiContext'
+import React from 'react'
 
-export default function Toiletries() {
-  
-  const setProducts = useContext(SetProductsContext)
+import ProductCard from '../components/ProductCard'
+
+export default function Toiletries({filteredProducts}) {
   
   return (
-    <div>Toiletries</div>
+    <div className='flex flex-row md:h-[50vh] w-full justify-center align-middle gap-12 m-auto text-center mt-12'>
+      {filteredProducts.map(product => (
+        <ProductCard key={product.id} product={product}/>
+      ))}
+    </div>
   )
 }

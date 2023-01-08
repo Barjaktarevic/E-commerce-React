@@ -1,11 +1,13 @@
-import React, { useContext } from 'react'
-import { SetProductsContext } from '../utils/ApiContext'
+import React from 'react'
+import ProductCard from '../components/ProductCard'
 
-export default function HouseholdAppliances() {
-
-  const setProducts = useContext(SetProductsContext)
+export default function HouseholdAppliances({filteredProducts}) {
   
   return (
-    <div>Household appliances</div>
+    <div className='flex flex-row md:h-[50vh] w-full justify-center align-middle gap-12 m-auto text-center mt-12'>
+      {filteredProducts.map(product => (
+        <ProductCard key={product.id} product={product}/>
+      ))}
+    </div>
   )
 }
