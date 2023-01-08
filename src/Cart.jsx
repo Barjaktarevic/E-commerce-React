@@ -1,31 +1,15 @@
 import React, {useContext, useEffect, useState } from 'react'
-import { CartContext, RemoveFromCartContext } from './utils/ApiContext'
+import { CartContext, CartTotalContext, RemoveFromCartContext } from './utils/ApiContext'
 
 export default function Cart() {
-const [cartTotal, setCartTotal] = useState(0)
 
-  const cart = useContext(CartContext) 
+  const cartTotal = useContext(CartTotalContext) 
   const removeCartItem = useContext(RemoveFromCartContext)
-
-  function calculateCartTotal(cart) {
-    let cartTotal = 0
-    for (let i = 0; i < cart.length; i++) {
-      cartTotal += +cart[i].price.substring(1)
-    }
-    setCartTotal(cartTotal.toFixed(2))
-  }
-
-  useEffect(() => {
-    calculateCartTotal(cart)
-  }, [])
-  
+  const cart = useContext(CartContext)
 
   const handleDelete = async (id) => {
-    await removeCartItem(id)
-    calculateCartTotal(cart)
+    removeCartItem(id)
   }
-
-  console.log(cart)
 
   return (
     <div className='flex gap-4'>
